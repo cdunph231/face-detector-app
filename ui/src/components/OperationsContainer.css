@@ -1,0 +1,17 @@
+.operations-container {
+    background-color: #49505e;
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 60px;
+    left: 402px;
+    bottom: 0;
+    border-top: 2px solid white;
+    border-right: 2px solid white;
+    border-left: 2px solid white;
+    height: 200px;
+    width: 1112px;
+}

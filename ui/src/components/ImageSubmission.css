@@ -1,0 +1,35 @@
+.submission-buttons {
+    background-color: #49505e;
+    border: 2px solid white;
+    box-shadow: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 400px;
+    height: 100vh
+}
+
+
+
+.add-image {
+    color: rgb(255, 255, 255);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.add-image__actions {
+    background-color: #8c1b96;
+    color: white;
+    border: 1px solid white;
+    margin: 1em;
+    padding: 1em 2em;
+    cursor: pointer;
+    border-radius: 12px;
+
+}
